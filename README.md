@@ -1,7 +1,7 @@
 # OpenCV
 In these algorithms we can see what can we do using OpenCV
 here are some of the screenshots from the result of opencv:
-#### Logo on photo with background making logo transparent
+#### Pasting logo on a picture by making logo background transparent
 ![logo](https://user-images.githubusercontent.com/35501699/45920857-3e22ba00-bec8-11e8-8f1a-cd795144065c.png)
 
 #### Some of the threshholding operations on image
